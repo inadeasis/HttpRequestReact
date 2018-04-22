@@ -8,16 +8,16 @@ The outcome enables you to click on a button, feed Github your username, and pri
 ## 1. To create a new project using create react app, you need to install it globally on your computer. In your terminal, type:
 	npm install -g create-react-app
 
- # Once create react app is installed, you can now create a new application using the create react app command. In your terminal again, type:
+ ##### Once create react app is installed, you can now create a new application using the create react app command. In your terminal again, type:
 	create-react-app github-react
 
 - <i>In the above line, I have named the new app github-react (you can change this to whatever name you like)</i>.
   
  ## 2. Start your server.
- # cd in to your application - in your terminal, type
+ ##### cd in to your application - in your terminal, type
  	cd github-react (github-react is the name of my application)
 	
-  # start your server - in your terminal, type:
+  ##### start your server - in your terminal, type:
 	 npm start
     	
 - The application can now be viewed locally in your browser at <b><i>http://localhost:3000/</i></b>.
