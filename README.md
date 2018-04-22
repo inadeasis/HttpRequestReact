@@ -13,12 +13,12 @@ The outcome enables you to click on a button, feed Github your username, and pri
 	- In the above line, I have named the new app github-react (you can change this to whatever name you like).
   
  ## 2. Start your server.
-  - cd in to your application
-    - Type <i><b>cd github-react</b></i> in your terminal & press enter (or the name of your application)
+  	- cd in to your application
+		- Type <i><b>cd github-react</b></i> in your terminal & press enter (or the name of your application)
 	
-  - start your server
+  	- start your server
 	  - Type <i><b>npm start</b></i> in your terminal & press enter
-    - Your application can now be viewed locally in your browser at <b><i>http://localhost:3000/</i></b>.
+    	- Your application can now be viewed locally in your browser at <b><i>http://localhost:3000/</i></b>.
   
   -------------------------------------------------------------------------------------------------------------------------
 
